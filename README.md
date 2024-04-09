@@ -60,7 +60,7 @@ The dataset used for this task was provided as a JSON file, containing external 
 
 ## Deployment
 1. **Deployment Platform**:
-   - The API was deployed on Azure cloud platform.
+   - Docker is used for containerization and the application image is used for easy deployment. The API was deployed on Azure cloud platform.
 
 2. **API URL**:
    - The deployed API endpoint URL: https://statuschecker.azurewebsites.net/docs 
