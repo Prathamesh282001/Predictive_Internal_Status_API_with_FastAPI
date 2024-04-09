@@ -67,3 +67,7 @@ The dataset used for this task was provided as a JSON file, containing external 
 
 ## Conclusion
 The development process involved data preprocessing, model development, API implementation, testing, and deployment. The trained model achieved satisfactory performance, and the deployed API is ready for use.
+
+<img width="1440" alt="Screenshot 2024-04-09 at 8 47 46 PM" src="https://github.com/Prathamesh282001/Predictive_Internal_Status_API_with_FastAPI/assets/122107260/2377658d-62f5-4705-b825-ff06ddc9ea5d">
+
+<img width="1440" alt="Screenshot 2024-04-09 at 8 48 24 PM" src="https://github.com/Prathamesh282001/Predictive_Internal_Status_API_with_FastAPI/assets/122107260/ab4b7ce5-f8ba-4184-9b30-42b469111c25">
